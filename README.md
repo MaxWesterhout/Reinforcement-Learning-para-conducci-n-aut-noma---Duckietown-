@@ -1,2 +1,2 @@
-# Reinforcement-Learning-para-conducci-n-aut-noma---Duckietown-
+# Reinforcement-Learning-para-conduccion-autonoma---Duckietown-
 Proyecto Módulo Interdisciplinario
